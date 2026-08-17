@@ -1,0 +1,3 @@
+(function(t,o,s){"use strict";const a=o.findByStoreName("RelationshipStore"),{getSince:d,isFriend:f}=a,p=o.findByName("BioText",!1);function l(e){return new Date(e).toLocaleDateString(void 0,{year:"numeric",month:"short",day:"numeric"})}s.after("default",p,function([e],n){if(!n?.props||!e.userId)return n;const c=e.userId;if(!f(c))return n;const u=d(c);if(!u)return n;const i=`
+
+Friends since: ${l(u)}`,r=n.props.children;return(Array.isArray(r)?r.join(""):typeof r=="string"?r:"").includes(i.trim())||(typeof r=="string"?n.props.children+=i:Array.isArray(r)?r.push(i):n.props.children=[r,i]),n});const y=function(){s.unpatchAll()};return t.onUnload=y,t})({},vendetta.metro,vendetta.patcher);
