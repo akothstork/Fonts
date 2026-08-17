@@ -1,0 +1,1 @@
+{"name":"Fix YouTube Embeds","description":"Auto-reloads YouTube embeds when they show an error message instead of the video.","authors":[{"name":"ported from Vencord","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_play_circle_24px"},"hash":"07b8e86be17cdca5d08675c957a039f793b06e811aa0b88cf562fa15fc7695a4"}

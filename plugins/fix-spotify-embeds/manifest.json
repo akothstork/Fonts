@@ -1,0 +1,1 @@
+{"name":"Fix Spotify Embeds","description":"Sets a custom volume for Spotify embeds. Prevents loud autoplay surprises.","authors":[{"name":"ported from Vencord","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_music_note_24px"},"hash":"e745d6283401da4bd4cd0a5357926c17c9f51528f5a37036cb9ec92cd41fd7c0"}

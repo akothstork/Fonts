@@ -1,0 +1,1 @@
+{"name":"Message Translate","description":"Translate messages using DeepL or Kagi translation APIs. Translated text appears below each message.","authors":[{"name":"ported from Vencord","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_translate_24px"},"hash":"78a2cddc21888925593382b35f766fb07125f8495c407081aa21f24a2d341c59"}

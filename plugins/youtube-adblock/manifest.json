@@ -1,0 +1,1 @@
+{"name":"YouTube AdBlock","description":"Hides YouTube ads and auto-skips video ads in embeds. Blocks ad elements and JSON ad data.","authors":[{"name":"ported from Vencord","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_block_24px"},"hash":"7759491632fcf61596f6e43b3e34b1f8f960106efd8d0784fbd066e9be25d2a7"}
