@@ -1,0 +1,14 @@
+{
+  "name": "RevengeStalker",
+  "description": "A plugin that allows you to stalk users and get notifications when they perform various actions",
+  "authors": [
+    {
+      "name": "zastix",
+      "id": "253302259696271360"
+    }
+  ],
+  "main": "src/index.tsx",
+  "vendetta": {
+    "icon": "ic_person_status"
+  }
+}
