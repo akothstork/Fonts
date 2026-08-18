@@ -1,14 +1,1 @@
-{
-  "name": "RevengeStalker",
-  "description": "A plugin that allows you to stalk users and get notifications when they perform various actions",
-  "authors": [
-    {
-      "name": "zastix",
-      "id": "253302259696271360"
-    }
-  ],
-  "main": "index.js",
-  "vendetta": {
-    "icon": "ic_person_status"
-  }
-}
+{"name":"RevengeStalker","description":"A plugin that allows you to stalk users and get notifications when they perform various actions.","authors":[{"name":"zastix","id":"253302259696271360"}],"main":"index.js","vendetta":{"icon":"ic_person_status"},"hash":"6cb6594aa032b83a1f24c2bb3d63e8aeb8e1652e0361e7d7a0e415850cc9c406"}
