@@ -1,0 +1,1 @@
+{"name":"Better URLs","description":"Resolves shortened redirect links (spotify.link, s.team) and replaces them with the real destination URL.","authors":[{"name":"ported from Vencord","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_link_24px"},"hash":"c4ea7bd7e452eebaa8a2ff9addf6734e89b33c3fbc83ae3562e28213abb68d7d"}

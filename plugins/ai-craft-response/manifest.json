@@ -1,0 +1,1 @@
+{"name":"AI Craft Response","description":"Generate AI-powered message responses using Ollama Cloud. Adds an AI assist button next to the send button.","authors":[{"name":"ported from Vencord","id":"0"}],"main":"index.js","vendetta":{"icon":"ic_smart_toy_24px"},"hash":"36540252c5f6efd47a16550c973cf8af7df8e27582d7c94f209c1d1db473c023"}
