@@ -1,28 +1,28 @@
 {
   "spec": 1,
-  "name": "5computers_In_Love",
-  "previewText": "5computers_In_Love font — I Always Come Back!",
+  "name": "5computers-In-Love",
+  "previewText": "5computers-In-Love font — I Always Come Back!",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
+    "ABCGintoNord-ExtraBold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
 
-    "ggsans-Bold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "ggsans-BoldItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "ggsans-ExtraBold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "ggsans-ExtraBoldItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "ggsans-Medium": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "ggsans-MediumItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "ggsans-Normal": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "ggsans-NormalItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "ggsans-Semibold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "ggsans-SemiboldItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
+    "ggsans-Bold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "ggsans-BoldItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "ggsans-ExtraBold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "ggsans-ExtraBoldItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "ggsans-Medium": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "ggsans-MediumItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "ggsans-Normal": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "ggsans-NormalItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "ggsans-Semibold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "ggsans-SemiboldItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
 
-    "NotoSans-Bold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "NotoSans-ExtraBold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "NotoSans-Medium": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "NotoSans-Normal": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "NotoSans-NormalItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
-    "NotoSans-Semibold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf",
+    "NotoSans-Bold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "NotoSans-ExtraBold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "NotoSans-Medium": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "NotoSans-Normal": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "NotoSans-NormalItalic": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
+    "NotoSans-Semibold": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf",
 
-    "ggmono-Normal": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers_In_Love-Font/5computers_In_Love.otf"
+    "ggmono-Normal": "https://github.com/akothstork/Fonts/raw/refs/heads/main/5computers-In-Love-Font/5computers-In-Love.otf"
   }
 }
