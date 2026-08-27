@@ -1,0 +1,1 @@
+{"name":"YouTube Rich Presence","description":"The status on Discord will display the YouTube video you are watching as Watching (this is visible to friends and others).","authors":[{"name":"You","id":"YOUR_ID_HERE"}],"main":"index.js","vendetta":{"icon":"PlayIcon"},"hash":"c75daf03c6ae875f81d637ea3f326f13b18af14e6ee1569e7aead7fc65ad8243"}
