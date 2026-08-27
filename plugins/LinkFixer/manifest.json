@@ -1,0 +1,1 @@
+{"name":"Link Fixer","description":"Rewrites social media links (X/Twitter, TikTok, Reddit, Instagram) to embed-friendly mirrors before you send them, so everyone sees proper previews.","authors":[{"name":"yungsamd17","id":"YOUR_DISCORD_ID_HERE"}],"main":"index.js","vendetta":{"icon":"ic_link"},"hash":"858e7efaef0724219be22c27be1fda13cd4f3fa0751e2bb52e5fab02f77e99e5"}
