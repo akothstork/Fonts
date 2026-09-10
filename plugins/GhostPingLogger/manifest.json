@@ -1,0 +1,1 @@
+{"name":"Kettu GhostPingLogger","description":"Seni mentionlayan mesaj silinirse ghost ping olarak yerelde kaydeder; direkt mention, everyone, here ve rol mentionlarını ayrı ayrı filtreler.","authors":[{"name":"bay4lly"}],"main":"index.js","hash":"6479ceb5e01f0ac0466fffa78a7aa0fff038a9fa99c3337d5e448b976176e337","vendetta":{"icon":"ic_mention_24px"}}
