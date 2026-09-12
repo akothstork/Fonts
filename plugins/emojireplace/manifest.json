@@ -1,12 +1,1 @@
-{
-    "id": "emojireplace",
-    "spec": 3,
-    "type": "plugin",
-    "version": "1.0.0",
-    "main": "index.js",
-    "display": {
-        "name": "EmojiReplace",
-        "description": "Replaces Discord's default emoji with a different provider's (Apple, Google, etc), ported from DevilBro's BetterDiscord theme.",
-        "authors": [{ "name": "Derty" }]
-    }
-}
+{"name":"EmojiReplace","description":"Replaces Discord's default emoji with a different provider's (Apple, Google, etc), ported from DevilBro's BetterDiscord theme.","authors":[{"name":"Derty"}],"main":"index.js","hash":"6a4a3ffce7684a8d20734bb13fcea549bd0fc5883d8874c3506434ab40b3fff0","vendetta":{"icon":"ic_message_edit_24px"}}
