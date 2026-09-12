@@ -1,0 +1,12 @@
+{
+    "id": "emojireplace",
+    "spec": 3,
+    "type": "plugin",
+    "version": "1.0.0",
+    "main": "index.js",
+    "display": {
+        "name": "EmojiReplace",
+        "description": "Replaces Discord's default emoji with a different provider's (Apple, Google, etc), ported from DevilBro's BetterDiscord theme.",
+        "authors": [{ "name": "Derty" }]
+    }
+}
